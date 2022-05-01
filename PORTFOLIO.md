@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Satyarth007
+- 👋 Hi, I’m @Satyarth007 
+- 😎 SATYARTH
 - 👀 I’m interested in helping people with the advance and open softwares. 
 - 😊 Expertise in HTML,CSS,JQUERY and CORE JAVA.
 - 🌱 I’m currently learning ADVANCE JAVA .
