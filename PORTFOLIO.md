@@ -2,7 +2,7 @@
 - 😎 SATYARTH
 - 👀 I’m interested in helping people with the advance and open softwares. 
 - 😊 Expertise in HTML,CSS,JQUERY and CORE JAVA.
-- 🌱 I’m currently learning ADVANCE JAVA .
+- 🌱 I’m currently learning ADVANCE JAVA and JAVASCRIPT.
 - 📫satyarthtiwari123@gmail.com / csesatyarth007@gmail.com
 
 <!---
