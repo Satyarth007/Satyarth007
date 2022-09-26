@@ -2,7 +2,13 @@
 - 😎 SATYARTH
 - 👀 I’m interested in helping people with the advance and open softwares. 
 - 😊 Expertise in HTML,CSS,JQUERY and CORE JAVA.
-- 🌱 I’m currently learning JAVASCRIPT and FLUTTER.
+- 🌱 I’m currently learning:-
+      * JAVASCRIPT
+      * NETWORKING
+      * FRONTEND FRAMEWORKS
+      * PYTHON
+      * OPERATING SYSTEM
+      * DATABASE
 - 📫satyarthtiwari123@gmail.com / csesatyarth007@gmail.com
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm SATYARTH!
 <!---
