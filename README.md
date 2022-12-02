@@ -13,7 +13,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm SATYARTH!
 ## CHECK MY TOPIC WISE JAVA CODES , IT CONTAINS AWESOME NOTES WHICH I CREATED WHILE LEARNING. BEST MULTI-THREADING 'NODES' i.e. 'NOTES + CODES'👌
 
-## my first js project :- https://satyarth007.github.io/NoteTaking.github.io/
+## NOTE TAKING  JS project :- https://satyarth007.github.io/NoteTaking.github.io/
+## TEXT TO VOICE JS PROJECT :- https://satyarth007.github.io/TEXT-TO-VOICE-WEB-APP/
 
 <!---
 Satyarth007/Satyarth007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
