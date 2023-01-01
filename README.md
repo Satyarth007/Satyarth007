@@ -4,8 +4,8 @@
 - 😊 Expertise in HTML,CSS,JQUERY and CORE JAVA.
 - 🌱 I’m currently learning:-
       * JAVASCRIPT
-      * NETWORKING
       * FRONTEND FRAMEWORKS
+      * BACKEND FRAMEWORKS
       * PYTHON
       * OPERATING SYSTEM
       * DATABASE
