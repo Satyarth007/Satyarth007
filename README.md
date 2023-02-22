@@ -2,13 +2,13 @@
 - 😎 SATYARTH
 - 👀 I’m interested in helping people with the advance and open softwares. 
 - 😊 Expertise in HTML,CSS,JQUERY and CORE JAVA.
-- 🌱 I’m currently learning:-
-      * JAVASCRIPT
-      * FRONTEND FRAMEWORKS
-      * BACKEND FRAMEWORKS
-      * PYTHON
-      * OPERATING SYSTEM
-      * DATABASE
+- 🌱 I’m currently learning:-  
+      * JAVASCRIPT  
+      * FRONTEND FRAMEWORKS  
+      * BACKEND FRAMEWORKS  
+      * FLUTTER      
+      * OPERATING SYSTEM  
+      * DATABASE  
 - 📫satyarthtiwari123@gmail.com / csesatyarth007@gmail.com
 ## Heya!, I'm SATYARTH!
 ## CHECK MY TOPIC WISE JAVA CODES , IT CONTAINS AWESOME NOTES WHICH I CREATED WHILE LEARNING. BEST MULTI-THREADING 'NODES' i.e. 'NOTES + CODES'👌
