@@ -5,8 +5,7 @@
 - 🌱 I’m currently learning:-  
            * JAVASCRIPT  
            * FRONTEND FRAMEWORKS  
-           * BACKEND FRAMEWORKS  
-           * FLUTTER       
+           * BACKEND FRAMEWORKS         
            * DATABASE  
 - 📫satyarthtiwari123@gmail.com / csesatyarth007@gmail.com  
 ## Heya!, I'm SATYARTH!  
