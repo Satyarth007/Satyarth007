@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Satyarth007 
+- 👋 Hi, I’m @Satyarth007
+- SDE Intern at Securonix
 - 😎 SATYARTH
 - 👀 I’m interested in helping people with the advance and open softwares. 
 - 😊 Expertise in CORE JAVA AND PYTHON.
