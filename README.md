@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Satyarth007
-- SDET Intern at Securonix
+- 👨‍🎓 SDET Intern at Securonix
 - 😎 SATYARTH
 - 👀 Keen interest in creating structured and advance softwares. 
 - 😊 Experience in CORE JAVA , JavaScript , Cypress , Python, etc
-- Knowledge and Experience in Agile tools (JIRA), Team work , Handling big code base , debugging , etc
-- did some great automation work using Cypress for Securonix (current comapany)
-- Also have insights on Kafka , snowflake , Redis , API's , Jenkins, Syslogs , Big-data, Docker, Testrail, etc
+- ✨ Knowledge and Experience in Agile tools (JIRA), Team work , Handling big code base , debugging , etc
+- 👌 did some great automation work using Cypress for Securonix (current company) and got good recognitions 🙌
+- 😎 Also have insights on Kafka , snowflake , Solr , Redis , API's , Jenkins, Syslogs , Big-data, Docker, Testrail, Parsers etc
 - 🌱 I’m currently learning:-  
-           * React / Node / Express 
+           * React / Node / Express   
            * BACKEND FRAMEWORKS         
            * NoSQL - DATABASES  
 - 📫satyarthtiwari123@gmail.com / csesatyarth007@gmail.com  
@@ -28,6 +28,8 @@
     <h3> Devops</h3><br />
               <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/jenkins.png"/> </a>
               <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/docker.png"/> </a>
+    <h3> Agile Tool </h3><br />
+              <a style="padding-right:8px;" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/jira.png"/> </a>          
 
   
   
