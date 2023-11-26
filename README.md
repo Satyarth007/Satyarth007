@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @Satyarth007
-- SDE Intern at Securonix
+- SDET Intern at Securonix
 - 😎 SATYARTH
-- 👀 I’m interested in helping people with the advance and open softwares. 
-- 😊 Expertise in CORE JAVA AND PYTHON.
+- 👀 Keen interest in creating structured and advance softwares. 
+- 😊 Experience in CORE JAVA , JavaScript , Cypress , Python, etc
+- Knowledge and Experience in Agile tools (JIRA), Team work , Handling big code base , debugging , etc
+- did some great automation work using Cypress for Securonix (current comapany)
+- Also have insights on Kafka , snowflake , Redis , API's , Jenkins, Syslogs , Big-data, Docker, Testrail, etc
 - 🌱 I’m currently learning:-  
-           * JAVASCRIPT  
-           * FRONTEND FRAMEWORKS  
+           * React / Node / Express 
            * BACKEND FRAMEWORKS         
-           * DATABASE  
+           * NoSQL - DATABASES  
 - 📫satyarthtiwari123@gmail.com / csesatyarth007@gmail.com  
 ## Heya! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm SATYARTH!  
 ## TECHNICAL SKILLS :- 
