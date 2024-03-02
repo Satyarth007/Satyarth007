@@ -29,7 +29,9 @@
               <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/jenkins.png"/> </a>
               <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/docker.png"/> </a>
     <h3> Agile Tool </h3><br />
-              <a style="padding-right:8px;" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/jira.png"/> </a>          
+              <a style="padding-right:8px;" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/jira.png"/> </a>
+    <h3> UI Automation</h3><br />
+              <a style="padding-right:8px;" href="https://www.cypress.com/" target="_blank"> <img src="https://img.icons8.com/color/48/cypress.png"/> </a>   
 
   
   
