@@ -30,8 +30,9 @@
               <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/docker.png"/> </a>
     <h3> Agile Tool </h3><br />
               <a style="padding-right:8px;" href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://img.icons8.com/color/48/jira.png"/> </a>
-    <h3> UI Automation</h3><br />
+    <h3> Automation Frameworks </h3><br />
               <a style="padding-right:8px;" href="https://www.cypress.io/" target="_blank"> <img src="https://www.cypress.io/_astro/navbar-brand._O9_em9E.svg"/> </a>
+              <a style="padding-right:8px;" href="https://www.ansible.com/" target="_blank"> <img src="https://icons8.com/icon/bHzVh76DVogj/ansible"/> </a>
     <h3> BACKEND </h3><br />
               <a style="padding-right:8px;" href="https://spring.io/projects/" target="_blank"> <img src="![image](https://github.com/Satyarth007/Satyarth007/assets/78496068/d93f7b06-9be7-45b7-9ce7-fbb10697d59d)
 "/> </a>       
