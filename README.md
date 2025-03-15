@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- SDE at Securonix  ( Cybersecurity SIEM Leader )<br>- I'm a Full-Stack Developer with a passion for building clean, scalable, and high-performing applications.<br>-  I enjoy learning new technologies, experimenting with different frameworks, and building innovative solutions that solve real-world problems.</p>
+<p align="left">- SDE at Securonix  ( Cybersecurity SIEM Leader )<br>- I'm a Full-Stack Developer with a passion for building clean, scalable, and high-performing applications.<br>-  I enjoy learning new technologies, experimenting with different frameworks, and building innovative solutions that solve real-world problems. <br>- Mob : 9508849311<br>- Email : satyarthtiwari123@gmail.com<br>- Leetcode : https://leetcode.com/u/SATYARTH_007/</p>
 
 ###
 
@@ -107,13 +107,12 @@
 <br clear="both">
 
 <div align="center">
-  <a href="satyarthtiwari123@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="35" alt="gmail logo"  /> </a>
-  <a href="www.linkedin.com/in/satyarthcse29"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  /> </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="51" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="51" height="35" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="51" height="35" alt="telegram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="51" height="35" alt="microsoft-outlook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="51" height="35" alt="hackerrank logo"  />
-  
 </div>
 
 ###
