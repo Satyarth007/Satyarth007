@@ -2,7 +2,16 @@
 
 ###
 
-<p align="left">- SDE at Securonix  ( Cybersecurity SIEM Leader )<br>- I'm a Full-Stack Developer with a passion for building clean, scalable, and high-performing applications.<br>-  I enjoy learning new technologies, experimenting with different frameworks, and building innovative solutions that solve real-world problems. <br>- Mob : 9508849311<br>- Email : satyarthtiwari123@gmail.com<br>- Leetcode : https://leetcode.com/u/SATYARTH_007/</p>
+<p align="left">
+<ul>
+  <li> SDE at Securonix  ( Cybersecurity SIEM Leader )</li>
+  <li> I'm a Full-Stack Developer with a passion for building clean, scalable, and high-performing applications</li>
+  <li> I enjoy learning new technologies, experimenting with different frameworks, and building innovative solutions that solve real-world problems.</li>
+  <li> Mob : 9508849311</li>
+  <li>Email : satyarthtiwari123@gmail.com</li>
+  <li><a href="https://leetcode.com/u/SATYARTH_007/">LEETCODE</a></li>
+</ul>
+</p>
 
 ###
 
