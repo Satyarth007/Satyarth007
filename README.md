@@ -2,16 +2,28 @@
 
 ###
 
+### 🚀 About Me
+
 <p align="left">
-<ul>
-  <li> SDE at Securonix  ( Cybersecurity SIEM Leader )</li>
-  <li> I'm a Full-Stack Developer with a passion for building clean, scalable, and high-performing applications</li>
-  <li> I enjoy learning new technologies, experimenting with different frameworks, and building innovative solutions that solve real-world problems.</li>
-  <li> Mob : 9508849311</li>
-  <li>Email : satyarthtiwari123@gmail.com</li>
-  <li><a href="https://leetcode.com/u/SATYARTH_007/">LEETCODE</a></li>
-</ul>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Full-Stack+Software+Engineer;GenAI+%26+Automation+Enthusiast;Problem+Solver+;Building+Scalable+Backend+Systems" alt="Typing Effect" />
 </p>
+
+* 🏢 **Current Role:** Associate Software Engineer at **Securonix** (A global leader in Next-Gen Cybersecurity SIEM).
+* 💡 **Core Passion:** Crafting clean, secure, and ultra-high-performing applications capable of managing massive architectural scales.
+* 🛠️ **Approach:** Continually experimenting with cutting-edge tools, optimizing frameworks, and engineering high-impact solutions for complex engineering problems.
+
+---
+
+### 📞 Connect & Code Profiles
+
+| Channel | Reach Out / View Profile |
+| :--- | :--- |
+| 💼 **LinkedIn** | [Satyarth Tiwari](https://www.linkedin.com/in/satyarth-tiwari/) |
+| 🧠 **LeetCode** | [SATYARTH_007](https://leetcode.com/u/SATYARTH_007/) |
+| 📧 **Email** | <satyarthtiwari123@gmail.com> |
+| 📱 **WhatsApp** | [+91 9508849311](https://wa.me/919508849311) |
+
+---
 
 ###
 
