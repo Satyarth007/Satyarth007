@@ -12,19 +12,6 @@
 * 💡 **Core Passion:** Crafting clean, secure, and ultra-high-performing applications capable of managing massive architectural scales.
 * 🛠️ **Approach:** Continually experimenting with cutting-edge tools, optimizing frameworks, and engineering high-impact solutions for complex engineering problems.
 
----
-
-### 📞 Connect & Code Profiles
-
-| Channel | Reach Out / View Profile |
-| :--- | :--- |
-| 💼 **LinkedIn** | [Satyarth Tiwari](https://www.linkedin.com/in/satyarth-tiwari/) |
-| 🧠 **LeetCode** | [SATYARTH_007](https://leetcode.com/u/SATYARTH_007/) |
-| 📧 **Email** | <satyarthtiwari123@gmail.com> |
-| 📱 **WhatsApp** | [+91 9508849311](https://wa.me/919508849311) |
-
----
-
 ###
 
 <h3 align="center">Tech Stacks</h3>
